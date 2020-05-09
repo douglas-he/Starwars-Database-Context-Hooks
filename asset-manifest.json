@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Starwars-Database-Context-Hooks/static/css/main.eab24d3c.chunk.css",
-    "main.js": "/Starwars-Database-Context-Hooks/static/js/main.15c8c12c.chunk.js",
-    "main.js.map": "/Starwars-Database-Context-Hooks/static/js/main.15c8c12c.chunk.js.map",
-    "runtime-main.js": "/Starwars-Database-Context-Hooks/static/js/runtime-main.04f6060f.js",
-    "runtime-main.js.map": "/Starwars-Database-Context-Hooks/static/js/runtime-main.04f6060f.js.map",
-    "static/js/2.1672029e.chunk.js": "/Starwars-Database-Context-Hooks/static/js/2.1672029e.chunk.js",
-    "static/js/2.1672029e.chunk.js.map": "/Starwars-Database-Context-Hooks/static/js/2.1672029e.chunk.js.map",
+    "main.js": "/Starwars-Database-Context-Hooks/static/js/main.aacded99.chunk.js",
+    "main.js.map": "/Starwars-Database-Context-Hooks/static/js/main.aacded99.chunk.js.map",
+    "runtime-main.js": "/Starwars-Database-Context-Hooks/static/js/runtime-main.399e9837.js",
+    "runtime-main.js.map": "/Starwars-Database-Context-Hooks/static/js/runtime-main.399e9837.js.map",
+    "static/js/2.8bde3b80.chunk.js": "/Starwars-Database-Context-Hooks/static/js/2.8bde3b80.chunk.js",
+    "static/js/2.8bde3b80.chunk.js.map": "/Starwars-Database-Context-Hooks/static/js/2.8bde3b80.chunk.js.map",
     "index.html": "/Starwars-Database-Context-Hooks/index.html",
-    "precache-manifest.fcb8353395fdd32dcf0a72c788434534.js": "/Starwars-Database-Context-Hooks/precache-manifest.fcb8353395fdd32dcf0a72c788434534.js",
+    "precache-manifest.fae3c97942e12b8006a87349cbab07c4.js": "/Starwars-Database-Context-Hooks/precache-manifest.fae3c97942e12b8006a87349cbab07c4.js",
     "service-worker.js": "/Starwars-Database-Context-Hooks/service-worker.js",
     "static/css/main.eab24d3c.chunk.css.map": "/Starwars-Database-Context-Hooks/static/css/main.eab24d3c.chunk.css.map",
-    "static/js/2.1672029e.chunk.js.LICENSE": "/Starwars-Database-Context-Hooks/static/js/2.1672029e.chunk.js.LICENSE"
+    "static/js/2.8bde3b80.chunk.js.LICENSE": "/Starwars-Database-Context-Hooks/static/js/2.8bde3b80.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.04f6060f.js",
-    "static/js/2.1672029e.chunk.js",
+    "static/js/runtime-main.399e9837.js",
+    "static/js/2.8bde3b80.chunk.js",
     "static/css/main.eab24d3c.chunk.css",
-    "static/js/main.15c8c12c.chunk.js"
+    "static/js/main.aacded99.chunk.js"
   ]
 }
